@@ -21,3 +21,20 @@
 ![image](https://github.com/user-attachments/assets/4499c1ea-a754-4395-a47f-1c74cec3b731)
 ## Por ultimo se detecta anomalias con un gráfico de caja (Boxplot) con la libreria "seaborn"
 
+Uso
+Clonar el repository:
+
+bash
+Copy
+git clone https://github.com/your-username/sales-analysis-numpy.git
+Navigate to the repository:
+
+bash
+Copy
+cd sales-analysis-numpy
+Open the Jupyter notebook:
+
+bash
+Copy
+jupyter notebook analisis_ventas_tarea.ipynb
+Follow the instructions in the notebook to perform the sales analysis.
