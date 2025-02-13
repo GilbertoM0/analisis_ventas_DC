@@ -4,6 +4,26 @@
 
 > [!Important]
 > Cualquier duda, pregunta o comentario sobre este notebook, contactarme.
+# Uso
+## Clonar el repository:
+
+`bash`
+```python
+[git clone https://github.com/your-username/sales-analysis-numpy.git](https://github.com/GilbertoM0/analisis_ventas_DC.git)
+```
+## Navegar al repositorio:
+
+`bash`
+```python
+cd sales-analysis-numpy
+```
+## Abrir el Jupyter notebook:
+
+`bash`
+```python
+jupyter notebook analisis_ventas_tarea.ipynb
+```
+## Siga las instrucciones en el cuaderno para realizar el análisis de ventas.
 
 ![image](https://github.com/user-attachments/assets/c5ae4eb7-2025-4bb5-8759-7709518ddd39)
 # Primera parte del analisis con la definicion de los datos.
@@ -20,29 +40,6 @@
 
 ![image](https://github.com/user-attachments/assets/4499c1ea-a754-4395-a47f-1c74cec3b731)
 ## Por ultimo se detecta anomalias con un gráfico de caja (Boxplot) con la libreria "seaborn"
-
-# Uso
-## Clonar el repository:
-
-`bash`
-```python
-#### [git clone https://github.com/your-username/sales-analysis-numpy.git](https://github.com/GilbertoM0/analisis_ventas_DC.git)
-```
-## Navegar al repositorio:
-
-`bash`
-```python
-cd sales-analysis-numpy
-```
-
-
-## Abrir el Jupyter notebook:
-
-`bash`
-```python
-jupyter notebook analisis_ventas_tarea.ipynb
-```
-## Siga las instrucciones en el cuaderno para realizar el análisis de ventas.
 
 
 
