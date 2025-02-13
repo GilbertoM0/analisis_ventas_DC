@@ -24,32 +24,27 @@
 # Uso
 ## Clonar el repository:
 
-### bash
+`bash`
+```python
 #### [git clone https://github.com/your-username/sales-analysis-numpy.git](https://github.com/GilbertoM0/analisis_ventas_DC.git)
-
+```
 ## Navegar al repositorio:
 
-### bash
-#### cd sales-analysis-numpy
+`bash`
+```python
+cd sales-analysis-numpy
+```
+
 
 ## Abrir el Jupyter notebook:
 
-### bash
-#### jupyter notebook analisis_ventas_tarea.ipynb
-
+`bash`
+```python
+jupyter notebook analisis_ventas_tarea.ipynb
+```
 ## Siga las instrucciones en el cuaderno para realizar el análisis de ventas.
 
-`tu código aquí`
 
-```python
-def mi_funcion():
-    print("Hola, mundo")
-```
 
-Esto resultará en un bloque de código formateado como:
 
-```python
-def mi_funcion():
-    print("Hola, mundo")
-```
 
