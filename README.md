@@ -25,9 +25,9 @@
 ## Clonar el repository:
 
 ### bash
-#### git clone https://github.com/your-username/sales-analysis-numpy.git
+#### [git clone https://github.com/your-username/sales-analysis-numpy.git](https://github.com/GilbertoM0/analisis_ventas_DC.git)
 
-Navegar al repositorio:
+## Navegar al repositorio:
 
 ### bash
 #### cd sales-analysis-numpy
