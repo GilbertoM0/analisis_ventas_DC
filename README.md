@@ -1,3 +1,3 @@
 # analisis_ventas_DC
-> .[NOTE].
+> [NOTE]
 > Hola
