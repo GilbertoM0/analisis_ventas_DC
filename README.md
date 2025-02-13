@@ -38,3 +38,18 @@
 #### jupyter notebook analisis_ventas_tarea.ipynb
 
 ## Siga las instrucciones en el cuaderno para realizar el análisis de ventas.
+
+`tu código aquí`
+
+```python
+def mi_funcion():
+    print("Hola, mundo")
+```
+
+Esto resultará en un bloque de código formateado como:
+
+```python
+def mi_funcion():
+    print("Hola, mundo")
+```
+
